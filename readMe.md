@@ -1,6 +1,5 @@
-#git 
-git add filename
-##git 2
-git commit -m "whatever"
-###git 3
-git diff
+#ReadMe
+##Description
+An accounting web application.
+##Technology
+Based on BackBone.js, Node.js.
